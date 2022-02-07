@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+An experienced Full Stack Blockchain Developer who has the strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications.
 <!--
 **Gen0106/Gen0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
