@@ -1,9 +1,9 @@
 ### Hi there 👋
-An experienced Full Stack Blockchain Developer who has the strengths are in giving realistic promises, being responsive and responsible, concentrating on business needs and communications.
+An experienced Full Stack Software Developer who has strengths in giving realistic promises, being responsive and responsible, and concentrating on business needs and communications.
 
 - :zap: I love blockchain, math, programming, and books
 - 🌱 I'm addicted to learning and growing every day
-- 🌏 I am currently sharing a little bit of my knowledge to the world
+- 🌏 I am currently sharing a little bit of my knowledge with the world
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Gen0106&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
